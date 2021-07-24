@@ -1,0 +1,63 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travels{
+    border:5px solid red;
+    padding-left:0px;
+    padding-right:0px;
+    float:none;
+    
+}
+body{
+    background-color:darkseagreen;
+}
+.movie_head{
+    font-size:20px;
+    padding:6px 20px;
+    width:100%;
+    display:inline-block;
+    margin-bottom:15px;
+}
+.movie_head i{
+    float:right;
+    
+    
+}
+.movietext span{
+    color:yellow;
+    
+}
+.news1{
+    margin-top:15px;
+    
+}
+.news1 h3{
+    padding:10px;
+    border-bottom:3px solid black;
+    }
+.news1 p{
+    margin-top:10px;
+}
+.book{
+    cursor:pointer;
+}
+.img_modal{
+display: inline-block;
+}
+.modal-body{
+    text-align:center;
+}
